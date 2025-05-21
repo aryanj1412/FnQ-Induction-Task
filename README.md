@@ -1,4 +1,5 @@
-**📘 Overview:**\n
+**📘 Overview:**
+
 This project implements and evaluates a Trend-Following Trading Strategy tailored for the Indian stock market. It leverages a combination of technical indicators to maximize profitability across various market conditions.
 The system is developed and tested in a Jupyter Notebook using Python, with performance metrics evaluated over multiple historical market regimes.
 

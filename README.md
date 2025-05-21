@@ -27,14 +27,30 @@ Enhances returns by rotating into high-performing sectors.
 Reduces risk through diversification across sectors.
 
 **📊 Backtesting:**
+
 The strategy was tested in four different Indian market regimes using the backtesting.py library:
 1. Sideways Market (Jan 2011 – Jun 2013)
 2. Bull Market (Jun 2014 – Dec 2015)
 3. COVID-19 Period (Jan 2020 – Dec 2021)
 4. Present Scenario (Jan 2022 – Dec 2024)
 
-📂 Project Structure
-├── Report.pdf                # PDF report detailing strategy, methodology, and results
-├── TradingStrategy.ipynb     # Jupyter Notebook containing full implementation
-├── README.md                 # Project overview and usage instructions
+**📂 Project Structure:**
 
+├── Report.pdf
+
+├── TradingStrategy.ipynb
+
+├── README.md
+
+**🛠️ Dependencies:**
+
+Make sure you have the following installed:
+
+1. Python 3.8+
+2. backtesting.py
+3. pandas
+4. numpy
+5. ta-lib
+6. yfinance
+
+matplotlib, seaborn
